@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: 'Averia Serif Libre', cursive;
+    background-image: url("/images/umbrella-rainstorm-pic.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: black;
+    overflow: hidden;
+}
+
+#nav {
+    background-color:black;
+}
+
+#welcome {
+    width: 33.33%;
+    height: 33.33%;
+    background-color: rgba(221, 228, 233, 0.3);
+    margin-top: 30vh;
+}
+
+#welcome h2, p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+footer {
+    background-color: black;
+}
+
+#buttons {
+    float: right;
+}
